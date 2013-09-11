@@ -1,5 +1,5 @@
 {
-    "name":"Michaelcgn/restler",
+    "name":"michaelcgn/restler",
     "description":"Restler is a simple and effective multi-format Web API Server written in PHP.\nJust deal with your business logic in php, restler will take care of the REST!",
     "version":"3.0.0",
     "type":"library",
